@@ -1,0 +1,23 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+static
+templates/robots.txt
+
+# Virtual Environment #
+venv/
+env/
+.env
+.myvenv
+.venv/
+
+# IDE #
+.vscode/
+.idea/
+.DS_Store
+
+config/*.json
